@@ -16,7 +16,7 @@ Please follow the below steps to install pytorch and cuda in your windows system
    3.2 Execute:  conda create --name <your env name>
 5. Now all you have to do is to visit https://pytorch.org/get-started/locally/ and follow the below table to select suitable prerequisites you need.
    ![pytorch1](https://user-images.githubusercontent.com/48651817/141610129-c7b86cf9-6572-493b-a2b1-429c8f88246c.png)
-4. DO NOT FORGET TO TEST THE BELOW COMMANDS, this will give you confidence that pytorch with cuda is installed in your system for sure. 
+6. DO NOT FORGET TO TEST THE BELOW COMMANDS, this will give you confidence that pytorch with cuda is installed in your system for sure. 
     From the command line, type:
     ```
     python
