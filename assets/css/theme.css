@@ -1657,8 +1657,7 @@ a.fg-light:hover, a.fg-light:focus {
 }
 
 .hero-carousel-item img {
-  width: 100%;
-  height: auto;
+  object-fit: fill;
 }
 
 .hero-carousel .owl-nav {
@@ -1782,14 +1781,14 @@ a.fg-light:hover, a.fg-light:focus {
 }
 
 .team-wrap {
-  position: relative;
+  position: center;
   margin: 0 auto;
   width: auto;
   max-width: 280px;
 }
 
 .team-profile {
-  position: relative;
+  position: center;
   display: block;
   width: 100%;
   border-radius: 6px;
