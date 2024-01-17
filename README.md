@@ -1,5 +1,8 @@
 ## Welcome to My GitHub Pages
 
+### Basics of Python & Projects
+
+
 ### How to install pytorch and cuda in your local system
 
 Please follow the below steps to install pytorch and cuda in your windows system. This is when you have GPU in your local system, else you can install pytorch without GPU also.
