@@ -1,7 +1,7 @@
 ## Welcome to My GitHub Pages
 
 ### Basics of Python & Projects
-datascience/module-0
+https://github.com/DattaIn/idatta.github.io/tree/1dde73e3aa85c3a6c5d5e20c8fe5136bc3df7929/datascience/module-0
 
 ### How to install pytorch and cuda in your local system
 
